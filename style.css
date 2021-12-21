@@ -1,0 +1,40 @@
+.heading{
+    font-size:x-large;
+    width:100%;
+    top:0;
+}
+body{
+    background-image: url("Background.png");
+    background-size: cover;
+}
+#footer{
+    border-width: 3px;
+    width: 100%;
+    border-style: solid;
+    bottom:0;
+    position: fixed;
+    padding-top:5px;
+    padding-bottom:5px;
+    border-color:#DF57BC;
+    color:#803DA4;
+    font-size: xx-large;
+    font-family: 'Inspiration', cursive;
+    background-color: cyan;
+}
+#note{
+    font-size: small;
+    color: black;
+}
+h3{
+    color:white;
+}
+input{
+    background-color:cyan;
+    color:#803DA4;
+}
+canvas{
+    border-radius: 20px;
+    border-color: #DF57BC;
+    border-width: 3px;
+    border-style: solid;
+}
